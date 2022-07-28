@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2422537087",
+    "project_id": "dyp-prathishthan",
+    "storage_bucket": "dyp-prathishthan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2422537087:android:a25244eccfc8ae04fdb84a",
+        "android_client_info": {
+          "package_name": "com.example.dyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2422537087-3n22h2c1kcgp70ok4nb8qjdrn5j4kolr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACKftavT0H3OWMhcQmb-SSXAK4OnGLqyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2422537087-3n22h2c1kcgp70ok4nb8qjdrn5j4kolr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
