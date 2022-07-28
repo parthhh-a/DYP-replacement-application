@@ -1,4 +1,4 @@
-# dyp
+# DYP College Replacement Application
 
 A new Flutter project.
 
